@@ -1,3 +1,4 @@
 {
-    "python.REPL.enableREPLSmartSend": false
+    "python.REPL.enableREPLSmartSend": false,
+    "python.defaultInterpreterPath": "${workspaceFolder}/myenv/Scripts/python.exe"
 }
